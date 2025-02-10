@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 💻 **Full-stack developer** with expertise in **React, Node.js, and TypeScript**.
-- 🌱 Currently learning **AWS** and **serverless architectures**.
+- 🌱 Currently focused on **Software Architecture** and improving **web system development**.
 - 🚀 Passionate about building scalable and efficient solutions.
 - 📫 Reach me at **marcooss.paulo16@icloud.com**.
 
@@ -57,7 +57,8 @@
 ---
 
 ### 🌟 Goals for 2025
-- [ ] Learn **AWS** and **serverless architectures**.
+- [ ] Deepen knowledge in **Software Architecture** and design patterns.
+- [ ] Improve skills in building **scalable and maintainable web systems**.
 - [ ] Contribute to **5+ open-source projects**.
 - [ ] Build a **personal portfolio website**.
 
